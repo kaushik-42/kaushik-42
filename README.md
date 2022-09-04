@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kaushiktummalapalli](https://medium.com/@kaushiktummalapalli)
 
-- 📫 How to reach me **kaushiktummala55@gmail.com**
+- 📫 How to reach me **kaushiktummala55@gmail.com** OR **kt2651@nyu.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q2p7PlL_snSs-TN8xPzig-M2RHEODSDv/view?usp=sharing](https://drive.google.com/file/d/1q2p7PlL_snSs-TN8xPzig-M2RHEODSDv/view?usp=sharing)
 
