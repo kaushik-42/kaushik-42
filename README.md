@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushik-42" alt="kaushik-42" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision Research project**
+- 🔭 I’m currently working on **MLOPS Project & Udacity MLOPS Nano Degree Program**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
