@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushik Tummalapalli</h1>
-<h3 align="center">Masters Student @NYU || Beta Student Partner @microsoft || 🤖 Machine Learning, Deep Learning and Data Science Enthusiast ||🐍 Pythoneer || Love exploring Tech!</h3>
+<h3 align="center">Masters Student @NYU || Machine Learning @ CVS Health || Beta Student Partner @microsoft || 🤖 Machine Learning, Deep Learning and Data Science Enthusiast ||🐍 Pythoneer || Love exploring Tech!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushik-42" alt="kaushik-42" /></a> </p>
 
